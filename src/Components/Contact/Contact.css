@@ -1,0 +1,25 @@
+.contact h2 {
+    color: #2C3E50;
+    font-size: 45px;
+}
+
+.contact .form-control {
+    padding: 15px !important;
+    /* border-top: none;
+    border-left: none;
+    border-right: none; */
+    border-color: #1ABC9C;
+    border-width: 3px !important;
+}
+
+.contact .btn{
+    padding: 15px;
+    background-color: #2C3E50;
+    color: #fff !important;
+    text-transform: capitalize;
+    width: 100px !important;
+}
+
+.contact .btn:hover{
+    background-color: #415468 !important;
+}
